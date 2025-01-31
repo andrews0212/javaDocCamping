@@ -1,0 +1,6 @@
+module:org.example.camping2
+org.example.camping2.conection
+org.example.camping2.controladores
+org.example.camping2.dao
+org.example.camping2.dto
+org.example.camping2.memoria
